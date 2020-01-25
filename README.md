@@ -1,5 +1,5 @@
 # Microservices-V1-Eureka
 
-This course introduces you to building microservices with Spring Boot and Spring cloud.
+In this project are built different microservices with Spring Boot and Spring cloud.
 
-Besides that, there are a few microservices and have them communicate with each other. In the process, in order to understand how inter-service communication work, and we'll implement service discovery with Eureka to facilitate services finding each other to communicate.
+Besides that, how  them communicate with each other, in order to built   the inter-service communication work, and are going to be implemented the service discovery with Eureka to facilitate services finding each other to communicate.
